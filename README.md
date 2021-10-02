@@ -1,32 +1,20 @@
  
-🔭 I'm currently final year studying BTech in CSE 💻;
-
-⏳ Learning ML and DL;
-
-
-
-📫 How to reach me: pmjadhav333@gmail.com;
+ - 🔭 I'm currently final year studying BTech in CSE 💻;
+ - ⏳ Learning ML and DL;
+ - 📫 How to reach me: pmjadhav333@gmail.com;
 
  ## Who am I?
  ```python
  class WhoAmI:
  	user = 'Pruthviraj Jadhav'
-  branch ='CSE' 
+  	branch ='CSE' 
 	current_edu = "Govt.College of Engineering, Aurangabad"
-  bio='Finding patterns of universe'
-	Languages = [
-              
-              
-              
-			]
- 
-	
+  	bio='Finding patterns of universe'
+	 	
  ```
  
  ### 🛠 &nbsp;Tech Stack
  Languages:
-
-
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
