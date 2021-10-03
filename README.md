@@ -1,8 +1,3 @@
- 
- - 🔭 I'm currently final year studying BTech in CSE 💻;
- - ⏳ Learning ML and DL;
- - 📫 How to reach me: pmjadhav333@gmail.com;
-
  ## Who am I?
  ```python
  class WhoAmI:
@@ -12,7 +7,9 @@
   	bio='Finding patterns of universe'
 	 	
  ```
+
  
+
  ### 🛠 &nbsp;Tech Stack
  
 
